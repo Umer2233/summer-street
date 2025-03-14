@@ -1,0 +1,2 @@
+<li><a href="<?php echo e(route('categories.browse', $category->slug), false); ?>"><?php echo e($category->name, false); ?></a></li>
+<?php /**PATH H:\xampp\htdocs\summerstreet\public\themes\default/views/headers/lists/category_subgrp.blade.php ENDPATH**/ ?>
